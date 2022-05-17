@@ -4,13 +4,7 @@
 - Formado em Técnico de Informática para internet
 - Estudante de Analise e Desenvolvimento de Sistemas
 
-<div align="center">
-  <a href="https://github.com/gustavomendesof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomendesof&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomendesof&layout=compact&langs_count=7&theme=ocean_dark"/>
-</div>
-  
-##
+
 
 ### ✨ Habilidades
 
