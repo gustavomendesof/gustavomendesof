@@ -2,7 +2,7 @@
 
 - Back-End | Java | API
 - Formado em Técnico de Informática para internet
-- Estudante de Analise e Desenvolvimento de Sistemas
+- Estudante de Big Data e Inteligência Analítica
 
 
 
