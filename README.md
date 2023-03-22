@@ -21,6 +21,9 @@
   </div>
 
 ##
+<div align="center" style="display:flex; justify-content: center;">
+   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavomendesof&background=10142e&color=0d112b&theme=tokyonight_duo" alt="gustavomendesof" /> 
+</div>
   
 ### 📧 Contate - me
 
